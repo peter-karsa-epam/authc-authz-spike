@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: auth-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Peter_Karsa
+Implementation-Vendor-Id: com.hotels.example.auth
+Build-Jdk: 1.8.0_31
+Implementation-URL: http://projects.spring.io/spring-boot/auth-demo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
